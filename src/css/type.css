@@ -1,0 +1,80 @@
+
+/* 656.841em */
+/* 437.894em */
+/* 291.929em */
+/* 194.62em */
+/* 129.746em */
+/* 86.498em */
+/* 57.665em */
+/* 38.443em */
+/* 25.629em */
+/* 17.086em */
+/* 11.391em */
+/* 7.594em */
+/* 5.063em */
+/* 3.375em */
+/* 2.25em */
+/* 1.5em */
+/* 1em */
+/* 0.667em */
+/* 0.444em */
+/* 0.296em */
+/* 0.198em */
+/* 0.132em */
+/* 0.088em */
+
+body {
+  font-size: 21px;
+  line-height: 29px;
+  max-width: 760px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 89px;
+  line-height: 116px;
+  margin-top: 58px;
+  margin-bottom: 29px;
+}
+h2 {
+  font-size: 55px;
+  line-height: 58px;
+  margin-top: 58px;
+  margin-bottom: 29px;
+}
+h3 {
+  font-size: 34px;
+  line-height: 58px;
+  margin-top: 29px;
+  margin-bottom: 29px;
+}
+h4 {
+  font-size: 21px;
+  line-height: 29px;
+  margin-top: 29px;
+  margin-bottom: 29px;
+}
+p, ul, ol, pre, table, blockquote {
+  margin-top: 29px;
+  margin-bottom: 29px;
+}
+
+/* Sanitation */
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+b, strong, em, small, code {
+  line-height: 1;
+}
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}

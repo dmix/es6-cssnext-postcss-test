@@ -1,0 +1,53 @@
+{
+  "name": "copperhead test site",
+  "description": "Website for Copperhead Security",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dmix/es6-cssnext-postcss-test",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmix/es6-cssnext-postcss-test.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": ".js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "cssnano": "^2.1.1",
+    "cssnext": "^1.8.2",
+    "glob": "^5.0.13",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-copy": "0.0.2",
+    "gulp-debug": "^2.0.1",
+    "gulp-extname": "^0.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-postcss": "^5.1.10",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.4",
+    "handlebars-helpers": "^0.5.8",
+    "jspm": "^0.15.7",
+    "lost": "^6.5.0",
+    "postcss-import": "^6.2.0",
+    "postcss-modular-scale": "^2.4.0",
+    "precss": "^0.3.0"
+  },
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "backbone": "npm:backbone@^1.2.1",
+      "handlebars": "github:components/handlebars.js@^3.0.3",
+      "underscore": "npm:underscore@^1.8.3",
+      "zepto": "npm:zepto@^0.0.4"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.20",
+      "babel-runtime": "npm:babel-runtime@^5.1.13",
+      "core-js": "npm:core-js@^0.9.4"
+    }
+  }
+}

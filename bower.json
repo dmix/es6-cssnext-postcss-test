@@ -1,0 +1,19 @@
+{
+  "name": "copperhead.co",
+  "version": "0.0.1",
+  "homepage": "https://copperhead.co",
+  "authors": [
+    "dmix <dan.mcgrady@copperhead.co>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "typographic": "~2.9.3"
+  }
+}
